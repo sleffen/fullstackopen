@@ -15,6 +15,7 @@ const Part = (props) => {
   )
 
 }
+
 const Content = (props) => {
   return(
     <div>
